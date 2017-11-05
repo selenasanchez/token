@@ -1,0 +1,19 @@
+--> Details
+Name: Test  
+Symbol: Test
+totalSupply : 1 000 000 000
+Decimals: 18
+
+--> Terms of Token Creation & Distribution
+72% ICO             -> 720 000 000 -> ico
+15% Founders        -> 150 000 000 -> vesting 20 months / 2 month cliff
+4% Marketing Team   ->  40 000 000 -> vesting 20 months / 2 month cliff
+1% Bounty           ->  10 000 000 -> tokens send to a single address
+8% Future Partners  ->  80 000 000 -> timelock
+
+--> Milestones
+1           - 100 000 000 Tokens @ 1 Token = ETH 0.00014 (Estimated Current Value $0.04) 
+100 000 001 - 300 000 000 Tokens @ 1 Token = ETH 0.00017 (Estimated Current Value $0.050)
+300 000 001 – 400 000 000 Tokens @ 1 Token = ETH 0.00019 (Estimated Current Value $0.056)
+400 000 001 – 600 000 000 Tokens @ 1 Token = ETH 0.00021 (Estimated Current Value $0.061)
+600 000 001 – 720 000 000 Tokens @ 1 Token = ETH 0.00023 (Estimated Current Value $0.067)
